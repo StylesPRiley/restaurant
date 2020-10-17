@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+<style>
+    #grid-container {
+        width: 400px;
+        font-size: 2em;
+        background: cornflowerblue;
+        display: grid;
+        grid-template-columns: auto auto auto;
+        grid-gap: 5px 5px;
+    }
+
+    #grid-container > div {
+        background: white;
+        padding: 10px;
+    }
+
+    #grid-item-a {
+        background-color: black;
+        color: white;
+    }
+    #grid-item-b {
+        background-color: black;
+        color: white;
+    }
+    #grid-item-c {
+        background-color: black;
+        color: white;
+    }
+    #grid-item-d {
+        background-color: black;
+        color: white;
+    }
+    #grid-item-e {
+        background-color: black;
+        color:white;
+    }
+    #grid-item-f {
+        background-color: darkgreen;
+        color: black;
+    }
+    #grid-item-g {
+        background-color: darkgreen;
+        color: black;
+    }
+    #grid-item-h {
+        background-color: darkgreen;
+        color: black;
+    }
+    #grid-item-i {
+        background-color: darkgreen;
+        color: black;
+    }
+    #grid-item-j {
+        background-color: darkgreen;
+        color: black;
+    }
+    .box{
+        width: 800px;
+        height: 600px;
+        padding: 10px;
+        border: 25px lightgreen;
+        margin: 0;
+        background: white;
+    }
+    .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
+    * {
+        box-sizing: border-box;
+    }
+
+    /* Create three unequal columns that floats next to each other */
+    .column {
+        float: left;
+        padding: 10px;
+        height: 300px; /* Should be removed. Only for demonstration */
+    }
+
+    .left, .right {
+        width: 10%
+    }
+
+    .middle {
+        width: 80%;
+    }
+
+    /* Clear floats after the columns */
+    .row:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+
+
+</style>
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h2>Welcome to My Page of Numbers</h2>
+
+<div id="grid-container">
+    <div id="grid-item-a">n</div>
+    <div id="grid-item-b">n2</div>
+    <div id="grid-item-c">n3</div>
+    <div id="grid-item-d">n!</div>
+    <div id="grid-item-e">2n</div>
+    <div>1</div>
+    <div>1</div>
+    <div>1</div>
+    <div>1</div>
+    <div>2</div>
+    <div>2</div>
+    <div>4</div>
+    <div>8</div>
+    <div>2</div>
+    <div>4</div>
+    <div>3</div>
+    <div>9</div>
+    <div>27</div>
+    <div>6</div>
+    <div>8</div>
+    <div>4</div>
+    <div>16</div>
+    <div>64</div>
+    <div>24</div>
+    <div>16</div>
+    <div>5</div>
+    <div>25</div>
+    <div>125</div>
+    <div>120</div>
+    <div>32</div>
+    <div>6</div>
+    <div>36</div>
+    <div>216</div>
+    <div>720</div>
+    <div>64</div>
+    <div>7</div>
+    <div>49</div>
+    <div>343</div>
+    <div>5040</div>
+    <div>128</div>
+    <div>8</div>
+    <div>64</div>
+    <div>512</div>
+    <div>40320</div>
+    <div>256</div>
+    <div>9</div>
+    <div><81</div>
+    <div>729</div>
+    <div>362880</div>
+    <div>512</div>
+    <div>10</div>
+    <div>100</div>
+    <div>1000</div>
+    <div>3628800</div>
+    <div>1024</div>
+    <div id = "grid-item-f">Lineal</div>
+    <div id = "grid-item-g">Quadratic</div>
+    <div id = "grid-item-h">Cube</div>
+    <div id = "grid-item-i">Factorial</div>
+    <div id = "grid-item-j">Exponential</div>
+
+</div>
+<br>
+<br>
+
+<div class="box">
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+    exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
+    dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
+    anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+    eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
+    aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+    pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+    deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing
+    elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+    minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
+    officia deserunt mollit anim id est laborum
+</div>
+<br>
+<br>
+<br>
+<br>
+<img src="graphs.PNG" alt="graphs" class="center">
+<br>
+<div class="row">
+    <div class="column left" style="background-color:#FFE1AC;">
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+            sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+            Excepteur sint occaecat cupidatat non proident,
+            sunt in culpa qui officia deserunt mollit anim id est laborum. </p>
+    </div>
+    <div class="column middle" style="background-color:#FFE4DF;">
+        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
+            totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt
+            explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur
+            magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est,
+            qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit,
+            sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+            Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam,
+            nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit
+            esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
+            totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt
+            explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,
+            sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est,
+            qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora
+            incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum
+            exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
+            Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur,
+            vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?</p>
+    </div>
+    <div class="column right" style="background-color:#FFE1AC;">
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+            magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
+            ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
+            eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+            sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    </div>
+</div>
+
+
+
+
+
+
+</body>
+</html>
