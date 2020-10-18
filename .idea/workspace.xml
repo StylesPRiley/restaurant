@@ -9,10 +9,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccc6bdc1-d189-4e63-bdc7-4a52b6eea486" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/numbers.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/numbers.html" afterDir="false" />
-    </list>
+    <list default="true" id="ccc6bdc1-d189-4e63-bdc7-4a52b6eea486" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +79,7 @@
       <workItem from="1602880745264" duration="17543000" />
       <workItem from="1602989650811" duration="5861000" />
       <workItem from="1602998548064" duration="1524000" />
-      <workItem from="1603043108078" duration="4766000" />
+      <workItem from="1603043108078" duration="4797000" />
     </task>
     <task id="LOCAL-00001" summary="deploy">
       <created>1602968446780</created>
@@ -112,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603046908935</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="complete, but couldn't get images to load on website.&#10;Final, complete">
+      <created>1603047901780</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1603047901780</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,29 +127,30 @@
     <MESSAGE value="deploy" />
     <MESSAGE value="image loading" />
     <MESSAGE value="complete, but couldn't get images to load on website" />
-    <option name="LAST_COMMIT_MESSAGE" value="complete, but couldn't get images to load on website" />
+    <MESSAGE value="complete, but couldn't get images to load on website.&#10;Final, complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete, but couldn't get images to load on website.&#10;Final, complete" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="291" y="70" key="CommitChangelistDialog2" timestamp="1603046907423">
+    <state x="291" y="70" key="CommitChangelistDialog2" timestamp="1603047900334">
       <screen x="0" y="0" width="1435" height="1003" />
     </state>
-    <state x="291" y="70" key="CommitChangelistDialog2/0.0.1435.1003@0.0.1435.1003" timestamp="1603046907423" />
-    <state width="1391" height="269" key="GridCell.Tab.0.bottom" timestamp="1603047860484">
+    <state x="291" y="70" key="CommitChangelistDialog2/0.0.1435.1003@0.0.1435.1003" timestamp="1603047900334" />
+    <state width="1391" height="269" key="GridCell.Tab.0.bottom" timestamp="1603047910111">
       <screen x="0" y="0" width="1435" height="1003" />
     </state>
-    <state width="1391" height="269" key="GridCell.Tab.0.bottom/0.0.1435.1003@0.0.1435.1003" timestamp="1603047860483" />
-    <state width="1391" height="269" key="GridCell.Tab.0.center" timestamp="1603047860482">
+    <state width="1391" height="269" key="GridCell.Tab.0.bottom/0.0.1435.1003@0.0.1435.1003" timestamp="1603047910111" />
+    <state width="1391" height="269" key="GridCell.Tab.0.center" timestamp="1603047910110">
       <screen x="0" y="0" width="1435" height="1003" />
     </state>
-    <state width="1391" height="269" key="GridCell.Tab.0.center/0.0.1435.1003@0.0.1435.1003" timestamp="1603047860482" />
-    <state width="1391" height="269" key="GridCell.Tab.0.left" timestamp="1603047860482">
+    <state width="1391" height="269" key="GridCell.Tab.0.center/0.0.1435.1003@0.0.1435.1003" timestamp="1603047910110" />
+    <state width="1391" height="269" key="GridCell.Tab.0.left" timestamp="1603047910110">
       <screen x="0" y="0" width="1435" height="1003" />
     </state>
-    <state width="1391" height="269" key="GridCell.Tab.0.left/0.0.1435.1003@0.0.1435.1003" timestamp="1603047860482" />
-    <state width="1391" height="269" key="GridCell.Tab.0.right" timestamp="1603047860483">
+    <state width="1391" height="269" key="GridCell.Tab.0.left/0.0.1435.1003@0.0.1435.1003" timestamp="1603047910110" />
+    <state width="1391" height="269" key="GridCell.Tab.0.right" timestamp="1603047910111">
       <screen x="0" y="0" width="1435" height="1003" />
     </state>
-    <state width="1391" height="269" key="GridCell.Tab.0.right/0.0.1435.1003@0.0.1435.1003" timestamp="1603047860483" />
+    <state width="1391" height="269" key="GridCell.Tab.0.right/0.0.1435.1003@0.0.1435.1003" timestamp="1603047910111" />
     <state x="535" y="415" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602995425646">
       <screen x="0" y="0" width="1435" height="1003" />
     </state>
