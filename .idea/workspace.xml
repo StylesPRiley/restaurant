@@ -10,9 +10,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ccc6bdc1-d189-4e63-bdc7-4a52b6eea486" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/images/download.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/graphs.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/graphs.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/numbers.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/numbers.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +79,7 @@
       <workItem from="1602787962174" duration="1302000" />
       <workItem from="1602820967492" duration="216000" />
       <workItem from="1602880745264" duration="17543000" />
-      <workItem from="1602989650811" duration="5283000" />
+      <workItem from="1602989650811" duration="5404000" />
     </task>
     <task id="LOCAL-00001" summary="deploy">
       <created>1602968446780</created>
@@ -91,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602968446780</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="image loading">
+      <created>1602994963683</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602994963683</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,13 +104,14 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="deploy" />
-    <option name="LAST_COMMIT_MESSAGE" value="deploy" />
+    <MESSAGE value="image loading" />
+    <option name="LAST_COMMIT_MESSAGE" value="image loading" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="291" y="70" key="CommitChangelistDialog2" timestamp="1602968445683">
+    <state x="291" y="70" key="CommitChangelistDialog2" timestamp="1602994962552">
       <screen x="0" y="0" width="1435" height="1003" />
     </state>
-    <state x="291" y="70" key="CommitChangelistDialog2/0.0.1435.1003@0.0.1435.1003" timestamp="1602968445683" />
+    <state x="291" y="70" key="CommitChangelistDialog2/0.0.1435.1003@0.0.1435.1003" timestamp="1602994962552" />
     <state width="1391" height="269" key="GridCell.Tab.0.bottom" timestamp="1602994634532">
       <screen x="0" y="0" width="1435" height="1003" />
     </state>
