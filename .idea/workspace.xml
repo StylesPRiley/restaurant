@@ -10,14 +10,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ccc6bdc1-d189-4e63-bdc7-4a52b6eea486" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/Main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Table.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Text1.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Text2.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/graphs.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/mypage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/numbers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/download.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/graphs.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/graphs.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/numbers.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/numbers.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,9 +61,9 @@
     <property name="settings.editor.selected.configurable" value="CPPToolchains" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
   </component>
@@ -85,8 +81,17 @@
       <workItem from="1602367498513" duration="6000" />
       <workItem from="1602787962174" duration="1302000" />
       <workItem from="1602820967492" duration="216000" />
-      <workItem from="1602880745264" duration="8857000" />
+      <workItem from="1602880745264" duration="17543000" />
+      <workItem from="1602989650811" duration="5283000" />
     </task>
+    <task id="LOCAL-00001" summary="deploy">
+      <created>1602968446780</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602968446780</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,23 +99,29 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="deploy" />
+    <option name="LAST_COMMIT_MESSAGE" value="deploy" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1391" height="269" key="GridCell.Tab.0.bottom" timestamp="1601839976907">
+    <state x="291" y="70" key="CommitChangelistDialog2" timestamp="1602968445683">
       <screen x="0" y="0" width="1435" height="1003" />
     </state>
-    <state width="1391" height="269" key="GridCell.Tab.0.bottom/0.0.1435.1003@0.0.1435.1003" timestamp="1601839976907" />
-    <state width="1391" height="269" key="GridCell.Tab.0.center" timestamp="1601839976907">
+    <state x="291" y="70" key="CommitChangelistDialog2/0.0.1435.1003@0.0.1435.1003" timestamp="1602968445683" />
+    <state width="1391" height="269" key="GridCell.Tab.0.bottom" timestamp="1602994634532">
       <screen x="0" y="0" width="1435" height="1003" />
     </state>
-    <state width="1391" height="269" key="GridCell.Tab.0.center/0.0.1435.1003@0.0.1435.1003" timestamp="1601839976907" />
-    <state width="1391" height="269" key="GridCell.Tab.0.left" timestamp="1601839976907">
+    <state width="1391" height="269" key="GridCell.Tab.0.bottom/0.0.1435.1003@0.0.1435.1003" timestamp="1602994634532" />
+    <state width="1391" height="269" key="GridCell.Tab.0.center" timestamp="1602994634531">
       <screen x="0" y="0" width="1435" height="1003" />
     </state>
-    <state width="1391" height="269" key="GridCell.Tab.0.left/0.0.1435.1003@0.0.1435.1003" timestamp="1601839976907" />
-    <state width="1391" height="269" key="GridCell.Tab.0.right" timestamp="1601839976907">
+    <state width="1391" height="269" key="GridCell.Tab.0.center/0.0.1435.1003@0.0.1435.1003" timestamp="1602994634531" />
+    <state width="1391" height="269" key="GridCell.Tab.0.left" timestamp="1602994634531">
       <screen x="0" y="0" width="1435" height="1003" />
     </state>
-    <state width="1391" height="269" key="GridCell.Tab.0.right/0.0.1435.1003@0.0.1435.1003" timestamp="1601839976907" />
+    <state width="1391" height="269" key="GridCell.Tab.0.left/0.0.1435.1003@0.0.1435.1003" timestamp="1602994634531" />
+    <state width="1391" height="269" key="GridCell.Tab.0.right" timestamp="1602994634532">
+      <screen x="0" y="0" width="1435" height="1003" />
+    </state>
+    <state width="1391" height="269" key="GridCell.Tab.0.right/0.0.1435.1003@0.0.1435.1003" timestamp="1602994634532" />
   </component>
 </project>
