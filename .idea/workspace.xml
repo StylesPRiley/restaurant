@@ -9,49 +9,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccc6bdc1-d189-4e63-bdc7-4a52b6eea486" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/bootstrap/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/bootstrap/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/bootstrap/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/bootstrap/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/bootstrap/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/bootstrap/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/bootstrap/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/bootstrap/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/bootstrap/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/bootstrap/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/bootstrap/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/bootstrap/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/bootstrap/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/bootstrap/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/bootstrap/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/bootstrap/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/bootstrap/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/bootstrap/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/bootstrap/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/bootstrap/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Menu/babybackribs.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Menu/caesarSalad.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Menu/cheesecake.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Menu/chickenCroquettes.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Menu/chickenWings.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Menu/fruttiDiMare.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Menu/guavaPastry.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Menu/pastaBalognese.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Menu/peruvianChicken.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Menu/rackOfLamb.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Menu/saladNicoise.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Menu/salmon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/Menu/steakAuPoivre.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pages/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/restaurant/aboutUs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/restaurant/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/restaurant/menu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/restaurant/stylesheets/menuStyle.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="ccc6bdc1-d189-4e63-bdc7-4a52b6eea486" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,7 +84,7 @@
       <workItem from="1603162108128" duration="115000" />
       <workItem from="1603341692354" duration="1483000" />
       <workItem from="1603393724377" duration="856000" />
-      <workItem from="1603499720867" duration="410000" />
+      <workItem from="1603499720867" duration="809000" />
     </task>
     <task id="LOCAL-00001" summary="deploy">
       <created>1602968446780</created>
@@ -163,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603047901780</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="menu rough draft">
+      <created>1603500229658</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1603500229658</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,31 +140,37 @@
     <MESSAGE value="image loading" />
     <MESSAGE value="complete, but couldn't get images to load on website" />
     <MESSAGE value="complete, but couldn't get images to load on website.&#10;Final, complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="complete, but couldn't get images to load on website.&#10;Final, complete" />
+    <MESSAGE value="menu rough draft" />
+    <option name="LAST_COMMIT_MESSAGE" value="menu rough draft" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="291" y="70" key="CommitChangelistDialog2" timestamp="1603047900334">
-      <screen x="0" y="0" width="1435" height="1003" />
+    <state x="279" y="70" key="CommitChangelistDialog2" timestamp="1603500228333">
+      <screen x="0" y="0" width="1375" height="1003" />
     </state>
+    <state x="279" y="70" key="CommitChangelistDialog2/0.0.1375.1003@0.0.1375.1003" timestamp="1603500228333" />
     <state x="291" y="70" key="CommitChangelistDialog2/0.0.1435.1003@0.0.1435.1003" timestamp="1603047900334" />
-    <state width="1378" height="269" key="GridCell.Tab.0.bottom" timestamp="1603343177498">
-      <screen x="0" y="0" width="1421" height="1003" />
+    <state width="1332" height="269" key="GridCell.Tab.0.bottom" timestamp="1603500525302">
+      <screen x="0" y="0" width="1375" height="1003" />
     </state>
+    <state width="1332" height="269" key="GridCell.Tab.0.bottom/0.0.1375.1003@0.0.1375.1003" timestamp="1603500525302" />
     <state width="1378" height="269" key="GridCell.Tab.0.bottom/0.0.1421.1003@0.0.1421.1003" timestamp="1603343177498" />
     <state width="1391" height="269" key="GridCell.Tab.0.bottom/0.0.1435.1003@0.0.1435.1003" timestamp="1603047910111" />
-    <state width="1378" height="269" key="GridCell.Tab.0.center" timestamp="1603343177498">
-      <screen x="0" y="0" width="1421" height="1003" />
+    <state width="1332" height="269" key="GridCell.Tab.0.center" timestamp="1603500525300">
+      <screen x="0" y="0" width="1375" height="1003" />
     </state>
+    <state width="1332" height="269" key="GridCell.Tab.0.center/0.0.1375.1003@0.0.1375.1003" timestamp="1603500525300" />
     <state width="1378" height="269" key="GridCell.Tab.0.center/0.0.1421.1003@0.0.1421.1003" timestamp="1603343177498" />
     <state width="1391" height="269" key="GridCell.Tab.0.center/0.0.1435.1003@0.0.1435.1003" timestamp="1603047910110" />
-    <state width="1378" height="269" key="GridCell.Tab.0.left" timestamp="1603343177497">
-      <screen x="0" y="0" width="1421" height="1003" />
+    <state width="1332" height="269" key="GridCell.Tab.0.left" timestamp="1603500525299">
+      <screen x="0" y="0" width="1375" height="1003" />
     </state>
+    <state width="1332" height="269" key="GridCell.Tab.0.left/0.0.1375.1003@0.0.1375.1003" timestamp="1603500525299" />
     <state width="1378" height="269" key="GridCell.Tab.0.left/0.0.1421.1003@0.0.1421.1003" timestamp="1603343177497" />
     <state width="1391" height="269" key="GridCell.Tab.0.left/0.0.1435.1003@0.0.1435.1003" timestamp="1603047910110" />
-    <state width="1378" height="269" key="GridCell.Tab.0.right" timestamp="1603343177498">
-      <screen x="0" y="0" width="1421" height="1003" />
+    <state width="1332" height="269" key="GridCell.Tab.0.right" timestamp="1603500525301">
+      <screen x="0" y="0" width="1375" height="1003" />
     </state>
+    <state width="1332" height="269" key="GridCell.Tab.0.right/0.0.1375.1003@0.0.1375.1003" timestamp="1603500525301" />
     <state width="1378" height="269" key="GridCell.Tab.0.right/0.0.1421.1003@0.0.1421.1003" timestamp="1603343177498" />
     <state width="1391" height="269" key="GridCell.Tab.0.right/0.0.1435.1003@0.0.1435.1003" timestamp="1603047910111" />
     <state x="535" y="415" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602995425646">
