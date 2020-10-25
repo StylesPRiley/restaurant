@@ -10,6 +10,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ccc6bdc1-d189-4e63-bdc7-4a52b6eea486" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/images/menu/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/menu/scroll1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/menu/scroll2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/menu/scroll3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/stylesheets/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/stylesheets/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -108,7 +114,7 @@
       <workItem from="1603590178146" duration="856000" />
       <workItem from="1603591068174" duration="12000" />
       <workItem from="1603602241901" duration="8678000" />
-      <workItem from="1603645588030" duration="5512000" />
+      <workItem from="1603645588030" duration="6585000" />
     </task>
     <task id="LOCAL-00001" summary="deploy">
       <created>1602968446780</created>
@@ -208,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603650905232</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="getting pictures to finally work">
+      <created>1603651138125</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1603651138125</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,33 +241,33 @@
     <option name="LAST_COMMIT_MESSAGE" value="getting pictures to finally work" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="279" y="70" key="CommitChangelistDialog2" timestamp="1603650903752">
+    <state x="279" y="70" key="CommitChangelistDialog2" timestamp="1603651136563">
       <screen x="0" y="0" width="1375" height="1003" />
     </state>
-    <state x="279" y="70" key="CommitChangelistDialog2/0.0.1375.1003@0.0.1375.1003" timestamp="1603650903752" />
+    <state x="279" y="70" key="CommitChangelistDialog2/0.0.1375.1003@0.0.1375.1003" timestamp="1603651136563" />
     <state x="291" y="70" key="CommitChangelistDialog2/0.0.1435.1003@0.0.1435.1003" timestamp="1603047900334" />
-    <state width="1332" height="114" key="GridCell.Tab.0.bottom" timestamp="1603650942958">
+    <state width="1332" height="114" key="GridCell.Tab.0.bottom" timestamp="1603651153805">
       <screen x="0" y="0" width="1375" height="1003" />
     </state>
-    <state width="1332" height="114" key="GridCell.Tab.0.bottom/0.0.1375.1003@0.0.1375.1003" timestamp="1603650942958" />
+    <state width="1332" height="114" key="GridCell.Tab.0.bottom/0.0.1375.1003@0.0.1375.1003" timestamp="1603651153805" />
     <state width="1378" height="269" key="GridCell.Tab.0.bottom/0.0.1421.1003@0.0.1421.1003" timestamp="1603343177498" />
     <state width="1391" height="269" key="GridCell.Tab.0.bottom/0.0.1435.1003@0.0.1435.1003" timestamp="1603047910111" />
-    <state width="1332" height="114" key="GridCell.Tab.0.center" timestamp="1603650942957">
+    <state width="1332" height="114" key="GridCell.Tab.0.center" timestamp="1603651153805">
       <screen x="0" y="0" width="1375" height="1003" />
     </state>
-    <state width="1332" height="114" key="GridCell.Tab.0.center/0.0.1375.1003@0.0.1375.1003" timestamp="1603650942957" />
+    <state width="1332" height="114" key="GridCell.Tab.0.center/0.0.1375.1003@0.0.1375.1003" timestamp="1603651153805" />
     <state width="1378" height="269" key="GridCell.Tab.0.center/0.0.1421.1003@0.0.1421.1003" timestamp="1603343177498" />
     <state width="1391" height="269" key="GridCell.Tab.0.center/0.0.1435.1003@0.0.1435.1003" timestamp="1603047910110" />
-    <state width="1332" height="114" key="GridCell.Tab.0.left" timestamp="1603650942957">
+    <state width="1332" height="114" key="GridCell.Tab.0.left" timestamp="1603651153805">
       <screen x="0" y="0" width="1375" height="1003" />
     </state>
-    <state width="1332" height="114" key="GridCell.Tab.0.left/0.0.1375.1003@0.0.1375.1003" timestamp="1603650942957" />
+    <state width="1332" height="114" key="GridCell.Tab.0.left/0.0.1375.1003@0.0.1375.1003" timestamp="1603651153805" />
     <state width="1378" height="269" key="GridCell.Tab.0.left/0.0.1421.1003@0.0.1421.1003" timestamp="1603343177497" />
     <state width="1391" height="269" key="GridCell.Tab.0.left/0.0.1435.1003@0.0.1435.1003" timestamp="1603047910110" />
-    <state width="1332" height="114" key="GridCell.Tab.0.right" timestamp="1603650942958">
+    <state width="1332" height="114" key="GridCell.Tab.0.right" timestamp="1603651153805">
       <screen x="0" y="0" width="1375" height="1003" />
     </state>
-    <state width="1332" height="114" key="GridCell.Tab.0.right/0.0.1375.1003@0.0.1375.1003" timestamp="1603650942958" />
+    <state width="1332" height="114" key="GridCell.Tab.0.right/0.0.1375.1003@0.0.1375.1003" timestamp="1603651153805" />
     <state width="1378" height="269" key="GridCell.Tab.0.right/0.0.1421.1003@0.0.1421.1003" timestamp="1603343177498" />
     <state width="1391" height="269" key="GridCell.Tab.0.right/0.0.1435.1003@0.0.1435.1003" timestamp="1603047910111" />
     <state x="535" y="415" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602995425646">
