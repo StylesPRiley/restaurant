@@ -1745,7 +1745,7 @@
       <workItem from="1603587383369" duration="2238000" />
       <workItem from="1603590178146" duration="856000" />
       <workItem from="1603591068174" duration="12000" />
-      <workItem from="1603602241901" duration="1121000" />
+      <workItem from="1603602241901" duration="1165000" />
     </task>
     <task id="LOCAL-00001" summary="deploy">
       <created>1602968446780</created>
@@ -1802,13 +1802,14 @@
     <MESSAGE value="complete, but couldn't get images to load on website" />
     <MESSAGE value="complete, but couldn't get images to load on website.&#10;Final, complete" />
     <MESSAGE value="menu rough draft" />
-    <option name="LAST_COMMIT_MESSAGE" value="menu rough draft" />
+    <MESSAGE value="Added index page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added index page" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="279" y="70" key="CommitChangelistDialog2" timestamp="1603500228333">
+    <state x="279" y="70" key="CommitChangelistDialog2" timestamp="1603603502409">
       <screen x="0" y="0" width="1375" height="1003" />
     </state>
-    <state x="279" y="70" key="CommitChangelistDialog2/0.0.1375.1003@0.0.1375.1003" timestamp="1603500228333" />
+    <state x="279" y="70" key="CommitChangelistDialog2/0.0.1375.1003@0.0.1375.1003" timestamp="1603603502409" />
     <state x="291" y="70" key="CommitChangelistDialog2/0.0.1435.1003@0.0.1435.1003" timestamp="1603047900334" />
     <state width="1332" height="114" key="GridCell.Tab.0.bottom" timestamp="1603579409443">
       <screen x="0" y="0" width="1375" height="1003" />
