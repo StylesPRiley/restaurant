@@ -17,7 +17,7 @@ body{ font-family:Arial, Helvetica, sans-serif; margin:0px auto !important;}
 .clearfix{ clear:both;}
 
 /********* Start Header ***********/
-.header{ padding:10px 0px; background:url(../images/home-bg.jpg); height:500px; background-attachment:fixed;}
+.header{ padding:10px 0px; background:url(../images/menu/saladNicoise.jpg); height:500px; background-attachment:fixed;}
 .header-left{padding:15px 20px;}
 .header-right{padding-top:50px;}
 .white{ color:#FFF; text-decoration:none;}
