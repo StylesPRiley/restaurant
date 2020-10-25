@@ -28,7 +28,7 @@
 }
 
 .section-intro {
-    height: auto;
+    height: 820px;
     background-image: url("../images/menu/petr-sevcovic-qE1jxYXiwOA-unsplash.jpg");
     background-size: cover;
     display: flex;
