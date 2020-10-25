@@ -21,15 +21,15 @@
 
 .nav-flex-row li a {
     font-family: 'Big Shoulders Text', cursive;
-    color: #ffffff;
+    color: black;
     font-size: 1.5em;
     text-transform: uppercase;
     font-weight: 300;
 }
 
 .section-intro {
-    height: 820px;
-    background-image: url(public/images/menu/petr-sevcovic-qE1jxYXiwOA-unsplash.jpg);
+    height: auto;
+    background-color: lightblue;
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -39,7 +39,7 @@
 
 .section-intro h1 {
     text-align: center;
-    color: #ffffff;
+    color: black;
     font-size: 4em;
     font-weight: 700;
 }
