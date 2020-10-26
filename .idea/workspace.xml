@@ -9,14 +9,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccc6bdc1-d189-4e63-bdc7-4a52b6eea486" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/Procfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/menu/aboutUs1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/stylesheets/aboutUs.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/aboutUs.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/aboutUs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="ccc6bdc1-d189-4e63-bdc7-4a52b6eea486" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,7 +109,7 @@
       <workItem from="1603602241901" duration="8678000" />
       <workItem from="1603645588030" duration="6809000" />
       <workItem from="1603669110084" duration="20000" />
-      <workItem from="1603669148925" duration="2200000" />
+      <workItem from="1603669148925" duration="2246000" />
     </task>
     <task id="LOCAL-00001" summary="deploy">
       <created>1602968446780</created>
@@ -237,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603669270269</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="aboutUs">
+      <created>1603675292540</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1603675292540</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -255,13 +255,14 @@
     <MESSAGE value="Added index.html and index.css" />
     <MESSAGE value="getting pictures to finally work" />
     <MESSAGE value="loaded new pictures and changed restaurant information" />
-    <option name="LAST_COMMIT_MESSAGE" value="loaded new pictures and changed restaurant information" />
+    <MESSAGE value="aboutUs" />
+    <option name="LAST_COMMIT_MESSAGE" value="aboutUs" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="279" y="70" key="CommitChangelistDialog2" timestamp="1603669268961">
+    <state x="279" y="70" key="CommitChangelistDialog2" timestamp="1603675291151">
       <screen x="0" y="0" width="1375" height="1003" />
     </state>
-    <state x="279" y="70" key="CommitChangelistDialog2/0.0.1375.1003@0.0.1375.1003" timestamp="1603669268961" />
+    <state x="279" y="70" key="CommitChangelistDialog2/0.0.1375.1003@0.0.1375.1003" timestamp="1603675291151" />
     <state x="291" y="70" key="CommitChangelistDialog2/0.0.1435.1003@0.0.1435.1003" timestamp="1603047900334" />
     <state width="1332" height="114" key="GridCell.Tab.0.bottom" timestamp="1603669481514">
       <screen x="0" y="0" width="1375" height="1003" />
