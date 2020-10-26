@@ -9,7 +9,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccc6bdc1-d189-4e63-bdc7-4a52b6eea486" name="Default Changelist" comment="" />
+    <list default="true" id="ccc6bdc1-d189-4e63-bdc7-4a52b6eea486" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/public/aboutUs.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/aboutUs.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -109,7 +111,7 @@
       <workItem from="1603602241901" duration="8678000" />
       <workItem from="1603645588030" duration="6809000" />
       <workItem from="1603669110084" duration="20000" />
-      <workItem from="1603669148925" duration="2246000" />
+      <workItem from="1603669148925" duration="2552000" />
     </task>
     <task id="LOCAL-00001" summary="deploy">
       <created>1602968446780</created>
